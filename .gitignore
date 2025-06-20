@@ -1,0 +1,10 @@
+# Build and cache
+.next/
+node_modules/
+*.node
+
+# Env and secrets
+.env*
+
+# Logs
+npm-debug.log*
